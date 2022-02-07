@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/hGFMB5x9.gif"><br>
+<img src="https://media.giphy.com/media/GwV143GEnj47mCZEBL/giphy-downsized-large.gif" title='Video Walkthrough' width='' alt='Video Walkthrough'><br>
 
 ### Notes
 - Had trouble figuring out how layouts are done in ios development. Took me a while to figure my way around layout constraints.
